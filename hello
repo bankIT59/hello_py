@@ -1,0 +1,6 @@
+"""Test py"""
+def main():
+    """test"""
+    print("Hello python")
+    
+main()
